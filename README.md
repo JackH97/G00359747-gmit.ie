@@ -10,6 +10,11 @@ In this repository it has code from the different parts of our module. The main 
 # Testing & Coding
 When typing the code we used google cloud platform and created a server to use for creating different folders on a linus command. When code was typed we then saved and uploaded to individual repositories on github.
 
+# Installation
+1. Git clone https://github.com/JackH97/Graph-Theory-Project
+2. cd thompson - This will direct you into my thompson folder with the code 
+3. vi mystate.py - This Command runs the mystate.py file 
+
 # References
 Vim copy & paste - https://linuxize.com/post/how-to-copy-cut-paste-in-vim/ - Helped me when copying, cutting and pasting my code into other sections.
 
