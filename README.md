@@ -8,7 +8,16 @@ The task set for us was to create a project that had an application made to use 
 In this repository it has code from the different parts of our module. The main part is the thompson folder which includes my regex.py and myscript.py 
 
 # Testing & Coding
-When typing the code we used google cloud platform and created a server to use for creating different folders on a linus command. When code was typed we then saved and uploaded to individual repositories on github.
+When typing the code we used google cloud platform and created a server to use for creating different folders on a linux command. When code was typed we then saved and uploaded to individual repositories on github.
+
+# Types of Characters Used
+We used various characters when doing the code which range from.
+
+* - Kleene Star - This means that a character shows either zero or more times.
+
+. - Concatenate - This means that it will match a character with example a.b means a followed by b.
+
+| - Vertical Bar - This means that with example a|b will be a or b.
 
 # Installation
 1. Git clone https://github.com/JackH97/Graph-Theory-Project
@@ -18,11 +27,13 @@ When typing the code we used google cloud platform and created a server to use f
 # References
 Vim copy & paste - https://linuxize.com/post/how-to-copy-cut-paste-in-vim/ - Helped me when copying, cutting and pasting my code into other sections.
 
-Python regex - https://www.programiz.com/python-programming/regex - A website found that helped me get a good understanding of regular expressions.
+Python regex expressions - https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285 - A website found that helped me get a good understanding of regular expressions.
 
 Shunting Yard Algorithm - http://www.reedbeta.com/blog/the-shunting-yard-algorithm/ - Found this blog post that explains a lot on the shunting yard algorithm.
 
 NFA to DFA Conversion - https://stackoverflow.com/questions/58575589/how-does-the-epsilon-conversion-work-for-nfa-to-dfa-conversion - Found this stack overflow conversation that explained how it works with epsilon conversion.
+
+Regex
 
 # Past Repositories
 I only put the whole folder together for the project as I had done them in individual repositories in the past. By clicking on these links brings you to the where I did them originally and the commit amount and dates. 
