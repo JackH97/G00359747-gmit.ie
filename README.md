@@ -13,7 +13,7 @@ When typing the code we used google cloud platform and created a server to use f
 # Types of Characters Used
 We used various characters when doing the code which range from.
 
-* - Kleene Star - This means that a character shows either zero or more times.
+(*) - Kleene Star - This means that a character shows either zero or more times.
 
 . - Concatenate - This means that it will match a character with example a.b means a followed by b.
 
