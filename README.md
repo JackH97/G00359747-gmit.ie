@@ -33,8 +33,6 @@ Shunting Yard Algorithm - http://www.reedbeta.com/blog/the-shunting-yard-algorit
 
 NFA to DFA Conversion - https://stackoverflow.com/questions/58575589/how-does-the-epsilon-conversion-work-for-nfa-to-dfa-conversion - Found this stack overflow conversation that explained how it works with epsilon conversion.
 
-Regex
-
 # Past Repositories
 I only put the whole folder together for the project as I had done them in individual repositories in the past. By clicking on these links brings you to the where I did them originally and the commit amount and dates. 
 
