@@ -22,7 +22,7 @@ We used various characters when doing the code which range from.
 # Installation
 1. Git clone https://github.com/JackH97/Graph-Theory-Project
 2. cd thompson - This will direct you into my thompson folder with the code 
-3. vi mystate.py - This Command runs the mystate.py file 
+3. vi myscript.py - This Command runs the myscript.py file 
 
 # References
 Vim copy & paste - https://linuxize.com/post/how-to-copy-cut-paste-in-vim/ - Helped me when copying, cutting and pasting my code into other sections.
