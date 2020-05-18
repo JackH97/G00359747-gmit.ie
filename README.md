@@ -20,9 +20,10 @@ We used various characters when doing the code which range from.
 | - Vertical Bar - This means that with example a|b will be a or b.
 
 # Installation
+(please note you must use a linux machine or like us use google cloud and create a linux machine and install python)
 1. Git clone https://github.com/JackH97/Graph-Theory-Project
 2. cd thompson - This will direct you into my thompson folder with the code 
-3. vi myscript.py - This Command runs the myscript.py file 
+3. python3 myscript.py - This Command runs the myscript.py file 
 
 # References
 Vim copy & paste - https://linuxize.com/post/how-to-copy-cut-paste-in-vim/ - Helped me when copying, cutting and pasting my code into other sections.
