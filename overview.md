@@ -6,6 +6,8 @@ We done the coding on Google cloud platform as it was used in conjunction with a
 What happened with the code was to take a NFA infix and convert it into a postfix expression using the shunting yard algorithm. An NFA infix means a Non-Deterministic Finite automaton that are used for regular expressions and the shunting yard algorithm is a parsing method for expressionsin infix notation. </br>
 The file that we run when we clone the repository is myscript.py that runs the code from regex.py to see if code in that is correct and doesnt show errors.</br>
 
+![VM Menu](https://i.ibb.co/17xTC0n/google-cloud.png)
+
 # Run
 This project had many steps involved from the creation of the project to the finalizing the document for completion of project. For starters we used Google cloud platform to create a linux machine to do code. A suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products. I found google cloud platform great to use as your running a machine from the cloud where your pc specs good or bad won't have a huge effect on that machine compared to a local machine and great for others if group projects to use together. The steps follow as 
 1. Create a google cloud platform account and you need to get credits to run the machines which come free with colleges. 
@@ -18,3 +20,8 @@ This project had many steps involved from the creation of the project to the fin
 8. Then if you want to for example use my code then we need to use git clone https://github.com/JackH97/Graph-Theory-Project which will clone my project to your vm to use. 
 9. Then cd Graph-Theory-Project to go into that folder then cd thompson to go into that folder and then theres a command called vi which when you create a new file you use vi "".py which will let you create a new python file and if theres .py files in folder already just use same command and the file name. 
 10. To run the file then use python3 "".py to run the fill and if works it outputs to the screen.
+
+# Testing
+Testing was a key point in our project as we had to see was our code working and doing different tests correctly with shoing the code that was correct and incorrect was outputting correctly. For this we created a python file called test.py to run different tests on the expressions.</br>
+When this file was ran it would shows the amount of tests you put into the code and if code was correct it would output with the amount of tests ran and ok with it being sucessful. If not then you would have to go back into the code and find where the problems is which could be from the test.py file itself or from the regex.py file but if working correctly then should have this output.</br>
+![Test.py output](https://i.ibb.co/QDLtfFW/test.png)
